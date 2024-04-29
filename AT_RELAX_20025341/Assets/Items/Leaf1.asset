@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 380d9c83621752b4cb07960395ce116a, type: 3}
+  m_Name: Leaf1
+  m_EditorClassIdentifier: 
+  id: 8
+  itemName: Leaf
+  icon: {fileID: 21300000, guid: f0cb7b2988a584e4fb996b570d2fd5d3, type: 3}
+  itemObject: {fileID: 8908672401813233171, guid: 478550cd347c6ce4893ff294943e0821,
+    type: 3}
+  placeClip: {fileID: 8300000, guid: 4d8fef02063c105479c46f6553f8dc4e, type: 3}
+  destroyClip: {fileID: 8300000, guid: 4d8fef02063c105479c46f6553f8dc4e, type: 3}
+  pitch: 1
+  volume: 0.15
+  itemType: 0
+  itemColour: {r: 1, g: 1, b: 1, a: 0}
+  itemHighlightColour: {r: 0.65882355, g: 0.65882355, b: 0.65882355, a: 1}
